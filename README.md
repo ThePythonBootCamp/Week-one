@@ -30,4 +30,18 @@ _Summarize what you've learned about pushing to GitHub, creating repositories, a
 - Append your insights under each section
 - Open a PR before Thursday every week
 
+##  Markdown Learning resources
+
+- [Why write a README?](https://www.youtube.com/watch?v=E6NO0rgFub4&t=39s)
+
+- [Make a README](https://www.makeareadme.com/)
+
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+- How to Write a Good README File" by GitHub Training
+[YouTube](https://youtu.be/HUBNt18RFbo)
+
+- Search for: `github readme tutorial`, `best github readme examples`, etc.
+
+
 Let's make learning public and impactful 🌱
